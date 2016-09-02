@@ -40,3 +40,7 @@ nova:debug
 ############ Your Packages ############
 
 # my-custom-package
+fourseven:scss
+orionjs:core
+fortawesome:fontawesome
+orionjs:bootstrap

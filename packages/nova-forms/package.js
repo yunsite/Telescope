@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function(api) {
 
   api.versionsFrom("METEOR@1.3");
-  
+
   api.use([
     'ecmascript',
     'check',
@@ -22,5 +22,6 @@ Package.onUse(function(api) {
   ], "client");
 
   api.mainModule("lib/export.js", ["client", "server"]);
+  
 
 });
