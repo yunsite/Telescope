@@ -1,5 +1,5 @@
 #/bin/sh
 git add .
-git commit -am "push from yuncoin.vc runtime"
+read commitnote
+git commit -am "$commitnote"
 git push origin master
-

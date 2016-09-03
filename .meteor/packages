@@ -44,3 +44,4 @@ fourseven:scss
 orionjs:core
 fortawesome:fontawesome
 orionjs:bootstrap
+iron:router
